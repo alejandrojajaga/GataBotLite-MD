@@ -24,8 +24,8 @@ global.owner = [
 ['5216646666666'],
 ['51968382008']]
 
-global.mods = [] 
-global.prems = []
+global.mods = [+5491140900435] 
+global.prems = [+5491140900435]
 
 // Cambiar a false para desactivar en "auto-reconexion" de sub-bots
 global.gataJadibts = true
@@ -36,7 +36,7 @@ global.isBaileysFail = true
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "+5491140900435" //example: "+59309090909"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
